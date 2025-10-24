@@ -11,13 +11,13 @@
 </p>
 
 <p align="center">
-  <a href="../docs/ecosystem/QUICK_REFERENCE.md">Get Started ✨</a>
+  <a href="QUICK_REFERENCE.md">Get Started ✨</a>
   ·
   <a href="https://github.com/hivellm/hivellm/issues/new/choose">Report a bug 🐞</a>
   ·
-  <a href="../CONTRIBUTING.md">Contribute 🫶</a>
+  <a href="CONTRIBUTING.md">Contribute 🫶</a>
   ·
-  <a href="../docs/ecosystem/ECOSYSTEM_MAP.md">View Ecosystem 🏗️</a>
+  <a href="ECOSYSTEM_MAP.md">View Ecosystem 🏗️</a>
 </p>
 
 ----
@@ -36,19 +36,19 @@
 
 #### 👋 Contributing to HiveLLM
 
-<sub>HiveLLM is an open-source project, and it's always looking for new contributions. From documentation, implementing new features, contributing to infrastructure or reporting a bug; any contribution is valued and welcome. Are you interested in contributing? Give a read to our [Contributing Guide](../CONTRIBUTING.md) and the numerous ways you can [Get Involved](../docs/ecosystem/ECOSYSTEM_MAP.md) with HiveLLM!</sub>
+<sub>HiveLLM is an open-source project, and it's always looking for new contributions. From documentation, implementing new features, contributing to infrastructure or reporting a bug; any contribution is valued and welcome. Are you interested in contributing? Give a read to our [Contributing Guide](CONTRIBUTING.md) and the numerous ways you can [Get Involved](ECOSYSTEM_MAP.md) with HiveLLM!</sub>
 
 #### 🦺 Help us making this Community safe
 
-<sub>The HiveLLM project follows our [Code of Conduct](../CONTRIBUTING.md). Please abide by this Code of Conduct when interacting with all repositories under the HiveLLM organization and when interacting with people.</sub>
+<sub>The HiveLLM project follows our [Code of Conduct](CODE_OF_CONDUCT.md). Please abide by this Code of Conduct when interacting with all repositories under the HiveLLM organization and when interacting with people.</sub>
 
 #### 🔒 Reporting Security Incidents
 
-<sub>Please be mindful that security-related issues should be reported through our [Security Policy](https://github.com/hivellm/hivellm/security/policy) as security-related issues and vulnerabilities can be exploited and we request confidentiality whenever possible.</sub>
+<sub>Please be mindful that security-related issues should be reported through our [Security Policy](SECURITY.md) as security-related issues and vulnerabilities can be exploited and we request confidentiality whenever possible.</sub>
 
 ----
 
 <p align="center">
-  <sub>Built with 🐝 by the HiveLLM community · <a href="../LICENSE">MIT License</a></sub>
+  <sub>Built with 🐝 by the HiveLLM community · <a href="LICENSE">MIT License</a></sub>
 </p>
 
